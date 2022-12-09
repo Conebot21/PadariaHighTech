@@ -1,0 +1,29 @@
+<header>
+    <div class="page-header">
+        <h1>Padaria High Tech <small>Seu café sem bug's</small></h1>
+    </div>
+</header>
+
+<body>
+    <div class="panel panel-default">
+        <div class="panel-heading">Cadastrar Categoria</div>
+        <div class="panel-body">
+            <input id="categoria-nome" [(ngModel)]="adicionarCategoria.nome" placeholder="Nome">
+            <button (click)="enviarCategoria()">Adicionar</button>
+        </div>
+    </div>
+
+    <div>
+
+        <button (click)="atualizarListagem()">Listar</button>
+
+        <ul class="list-group">
+            <li class="list-group-item" *ngFor="let categoria of listaCategorias">
+                {{categoria.nome}}
+                <button type="button" (click)="excluir(categoria.id)" class="btn btn-default">Excluir</button>
+
+            </li>
+        </ul>
+    </div>
+
+</body>

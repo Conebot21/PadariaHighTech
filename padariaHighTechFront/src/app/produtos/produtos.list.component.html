@@ -1,0 +1,33 @@
+<div class="page-header">
+    <h1>Padaria High Tech <small>Seu café sem bug's</small></h1>
+</div>
+
+<div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">
+        <h3>Cardápio</h3>
+    </div>
+    <div class="panel-body">
+        <p>Nossos produtos são feitos com ingredientes selecionados e de ótima qualidade, e nossos colaboradores são
+            treinados para oferecer o melhor atendimento do mundo!</p>
+    </div>
+
+    <!-- Table -->
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Produto</th>
+                <th>Descrição</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="list-group" *ngFor="let produto of listaProdutos">
+
+                <td>{{produto.nome}}</td>
+                <td>{{produto.descricao}}</td>
+                <td><button type="button" (click)="excluir(produto.id)" class="bi bi-trash"></button></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<button type="button" routerLink="/produtos" class="bi bi-cart-plus"></button>

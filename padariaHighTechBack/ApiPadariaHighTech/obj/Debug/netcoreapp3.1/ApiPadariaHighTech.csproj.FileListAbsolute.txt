@@ -1,0 +1,146 @@
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.exe
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.deps.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.runtimeconfig.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.runtimeconfig.dev.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.dll
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.pdb
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csprojAssemblyReference.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.AssemblyInfoInputs.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.AssemblyInfo.cs
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.CoreCompileInputs.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\staticwebassets\ApiPadariaHighTech.StaticWebAssets.Manifest.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\staticwebassets\ApiPadariaHighTech.StaticWebAssets.xml
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiPadariaHighTech.styles.css
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.RazorTargetAssemblyInfo.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.dll
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.pdb
+C:\Users\jean.scherer\source\repos\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.genruntimeconfig.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.exe
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.deps.json
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.runtimeconfig.json
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.AssemblyInfo.cs
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\staticwebassets\ApiPadariaHighTech.StaticWebAssets.Manifest.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\staticwebassets\ApiPadariaHighTech.StaticWebAssets.xml
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiPadariaHighTech.styles.css
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.RazorTargetAssemblyInfo.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.genruntimeconfig.cache
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.CopyComplete
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.exe
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.deps.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.runtimeconfig.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.runtimeconfig.dev.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\ApiPadariaHighTech.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.AssemblyInfo.cs
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\staticwebassets\ApiPadariaHighTech.StaticWebAssets.Manifest.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\staticwebassets\ApiPadariaHighTech.StaticWebAssets.xml
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiPadariaHighTech.styles.css
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.RazorTargetAssemblyInfo.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.csproj.CopyComplete
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\ApiPadariaHighTech\obj\Debug\netcoreapp3.1\ApiPadariaHighTech.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.dev.json
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\jean.scherer\source\repos\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.genruntimeconfig.cache
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.json
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Desktop\PadariaHighTech\Negocio\obj\Debug\netcoreapp3.1\Negocio.genruntimeconfig.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\bin\Debug\netcoreapp3.1\Negocio.runtimeconfig.dev.json
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\Win10\Documents\Projects\padariaHighTech\padariaHighTech Back\Negocio\obj\Debug\netcoreapp3.1\Negocio.genruntimeconfig.cache

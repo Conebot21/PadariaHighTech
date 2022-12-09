@@ -1,0 +1,22 @@
+<header>
+    <div class="page-header">
+        <h1>Padaria High Tech <small>Seu café sem bug's</small></h1>
+    </div>
+
+    <button type="button" routerLink="/produtos/list" class="bi bi-arrow-return-left"></button>
+
+</header>
+
+<body>
+    <div class="panel panel-default">
+        <div class="panel-heading">Cadastrar Produto</div>
+        <div class="panel-body">
+            <input id="produto-nome" [(ngModel)]="adicionarProduto.nome" placeholder="Nome">
+            <input id="produto-descricao" [(ngModel)]="adicionarProduto.descricao" placeholder="Descrição">
+            <input id="produto-categoriaId" type="number" [(ngModel)]="adicionarProduto.categoriaId"
+                placeholder="Categoria Id">
+            <button (click)="enviarProduto()" class="bi bi-cart-plus"></button>
+        </div>
+    </div>
+
+</body>

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiPadariaHighTech",
+    "\\ApiPadariaHighTech\\Controllers",
+    "\\ApiPadariaHighTech\\obj",
+    "\\ConsoleApp",
+    "\\Negocio",
+    "\\Negocio\\bin",
+    "\\Negocio\\Entidades",
+    "\\Negocio\\Infra",
+    "\\WebApplication1"
+  ],
+  "SelectedNode": "\\ApiPadariaHighTech\\Controllers\\CategoriaController.cs",
+  "PreviewInSolutionExplorer": false
+}
